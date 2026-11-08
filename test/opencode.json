@@ -1,0 +1,17 @@
+  "$schema": "https://opencode.ai",
+  "provider": {
+    "my-server": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "My Local Server",
+      "options": {
+        "baseURL": "http://ip:8000/v1",
+        "apiKey": "token"
+      },
+      "models": {
+        "название-вашей-модели": {
+          "name": "Отображаемое имя модели"
+        }
+      }
+    }
+  }
+}
