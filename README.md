@@ -1,6 +1,7 @@
 # ManaTee
 
-> *Man-in-the-middle = Mana-Tee. Nuff said.*
+<img width="2352" height="1183" alt="image" src="https://github.com/user-attachments/assets/4a7f2966-0ef7-426c-bcf4-43df4ad000d0" />
+
 
 **ManaTee** is an educational Proof of Concept (PoC) demonstrating why using cheap, untrusted third-party API keys for LLMs can be dangerous.
 
